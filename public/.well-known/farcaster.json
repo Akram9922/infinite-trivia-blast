@@ -1,0 +1,14 @@
+{
+  "name": "Infinite Trivia Blast",
+  "description": "A fun trivia mini-game",
+  "start_url": "/",
+  "display": "standalone",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
