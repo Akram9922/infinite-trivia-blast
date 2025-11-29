@@ -1,4 +1,13 @@
 {
+  "name": "Infinite Trivia Blast",
+  "description": "A fun trivia mini-game",
+  "start_url": "/",
+  "display": "standalone",
+  "version": "1.0.0",
+  "iconUrl": "https://infinite-trivia-blast.vercel.app/icon.png",
+  "imageUrl": "https://infinite-trivia-blast.vercel.app/image.png",
+  "homeUrl": "https://infinite-trivia-blast.vercel.app",
+  "tags": ["game", "trivia", "fun"],
   "accountAssociation": {
     "header": "eyJmaWQiOjUyNjkxNywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDQ3QmQ0MjMwNEFkY2IwNDUyOTllMjQ4YjIyNzQwNjg3RDZENTNFYkIifQ",
     "payload": "eyJkb21haW4iOiJpbmZpbml0ZS10cml2aWEtYmxhc3QudmVyY2VsLmFwcCJ9",
